@@ -1,15 +1,12 @@
 .wrapper {
-  /*border: 2px solid blue;*/
   margin: 0 auto;
   padding: 0 100px;
   width: 1000px;
-  /*background-color: lightgrey;*/
 }
 
 .left-column {
   float: left;
   width: 50%;
-  /*background-color: grey;*/
   box-sizing: border-box;
 }
 
