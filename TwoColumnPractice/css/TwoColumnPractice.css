@@ -1,0 +1,44 @@
+.wrapper {
+  /*border: 2px solid blue;*/
+  margin: 0 auto;
+  padding: 0 100px;
+  width: 1000px;
+  /*background-color: lightgrey;*/
+}
+
+.left-column {
+  float: left;
+  width: 50%;
+  /*background-color: grey;*/
+  box-sizing: border-box;
+}
+
+.right-column {
+  float: left;
+  width: 50%;
+  box-sizing: border-box;
+}
+
+img {
+  width: 400px;
+}
+
+.footer {
+  clear: both;
+  box-sizing: border-box;
+  background-color: pink;
+  padding: 10px;
+  width: 100%;
+}
+
+form {
+  width: 100%;
+  padding: 50px;
+  background-color: lightgrey;
+  box-sizing: border-box;
+}
+
+input[type="name"], input[type="email"]{
+  width: 100%;
+  box-sizing: border-box;
+}
