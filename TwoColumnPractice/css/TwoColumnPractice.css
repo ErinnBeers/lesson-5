@@ -20,6 +20,11 @@ img {
   width: 400px;
 }
 
+h4 {
+  font-family: cursive;
+  font-size: 20px;
+}
+
 .footer {
   clear: both;
   box-sizing: border-box;
